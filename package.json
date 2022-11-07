@@ -1,6 +1,7 @@
 {
-  "name": "ngx-charts",
+  "name": "@seanhasson/ngx-charts",
   "version": "0.0.0",
+  "repository": "https://github.com/SeanHasson/ngx-charts.git",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
